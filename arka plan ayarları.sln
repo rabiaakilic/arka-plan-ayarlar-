@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arka plan ayarları", "arka plan ayarları\arka plan ayarları.csproj", "{89492897-00D6-43DF-A47A-EE2F4F02EB4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89492897-00D6-43DF-A47A-EE2F4F02EB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89492897-00D6-43DF-A47A-EE2F4F02EB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89492897-00D6-43DF-A47A-EE2F4F02EB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89492897-00D6-43DF-A47A-EE2F4F02EB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE84BDF-8E3B-4D11-80E2-D1BC34FC3292}
+	EndGlobalSection
+EndGlobal

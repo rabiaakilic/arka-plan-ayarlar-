@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\bin\Debug\arka plan ayarları.exe.config
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\bin\Debug\arka plan ayarları.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\bin\Debug\arka plan ayarları.pdb
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\obj\Debug\arka plan ayarları.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\obj\Debug\arka plan ayarları.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\obj\Debug\arka_plan_ayarları.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\obj\Debug\arka_plan_ayarları.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\obj\Debug\arka plan ayarları.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\obj\Debug\arka plan ayarları.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\obj\Debug\arka plan ayarları.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\arka plan ayarları\arka plan ayarları\obj\Debug\arka plan ayarları.pdb
